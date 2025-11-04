@@ -1,2 +1,2 @@
 # Mysql-EER---Ecommerce
-Olá, segue minha proposta da atividade da DIO sobre modelagem de dados para um ecommerce
+Olá, esse modelo conceitual em EER busca representar um E-commerce de pequeno porte.
